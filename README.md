@@ -50,9 +50,9 @@ processos por meio de software de alta qualidade.
 - **Pós Graduação - MBA Gestão de Negócios, Controladoria e Finanças** – Instituto de Pós Graduação - IPOG
 - **Certificação Python Imoressionador** – Hashtag Treinamentos
 - **Certificação Python 3** - Luiz Otávio Miranda - Udemy
-- **Certificação SQL Imoressionador** – Hashtag Treinamentos
-- **Certificação JavaScript Imoressionador** – Hashtag Treinamentos
-- **Certificação Full-Stack Imoressionador** – Hashtag Treinamentos
+- **Certificação SQL Impressionador** – Hashtag Treinamentos
+- **Certificação JavaScript Impressionador** – Hashtag Treinamentos
+- **Certificação Full-Stack Impressionador** – Hashtag Treinamentos
 - **Certificação Python Developer** – Python Institute  
 
 ---
