@@ -12,7 +12,7 @@ processos por meio de software de alta qualidade.
 
 ### Contabilidade & Finanças
 - **Contabilidade Geral**
-- **Normas Brasileiras de Contabilidade - NBCs/CPCs, e Internacionais - IFRS/IASB     
+- **Normas Brasileiras de Contabilidade** - NBCs/CPCs, e Internacionais - IFRS/IASB     
 - **Análise Contábil** e demonstrações financeiras  
 - **Controladoria** e elaboração de orçamentos  
 - **Gestão Fiscal e Tributária** (planejamento, apuração e compliance)  
