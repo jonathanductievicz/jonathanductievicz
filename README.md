@@ -49,7 +49,7 @@ processos por meio de software de alta qualidade.
 
 - **Certificação Python 3** - Luiz Otávio Miranda - Udemy
 
-- - **Certificação Python Impressionador** – Hashtag Treinamentos
+- **Certificação Python Impressionador** – Hashtag Treinamentos
 - **Certificação SQL Impressionador** – Hashtag Treinamentos
 - **Certificação JavaScript Impressionador** – Hashtag Treinamentos
 - **Certificação Full-Stack Impressionador** – Hashtag Treinamentos
