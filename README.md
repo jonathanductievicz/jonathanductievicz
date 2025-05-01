@@ -31,6 +31,32 @@ processos por meio de software de alta qualidade.
 
 ---
 
+## 🎓 Formação & Certificações
+
+- **Bacharelado em Ciências Contábeis** – Universidade Norte do Paraná  
+- **Pós Graduação - MBA Contabilidade e Direito Tributário** – Instituto de Pós Graduação - IPOG
+- **Pós Graduação - MBA Mercado Financeiro e de Capitals** – Instituto de Pós Graduação - IPOG
+- **Pós Graduação - MBA Gestão de Negócios, Controladoria e Finanças** – Instituto de Pós Graduação - IPOG
+- **Formação em Analista Fiscal** - Contador Premium
+- **Formação em Analista Contábil** - Contador Premium
+- **Formação em Classificação Fiscal de Mercadoria** - Contador Premium
+- **Especialista em PIS e COFINS** - Contador Premium
+- **Especialista em Simples Nacional** - Contador Premium
+- **Especialista em SPED 3.0** - Contador Premium
+  
+- **Certificado Profissional de Engenharia de dados da IBM** - Coursera
+- **Certificado Profissional de Ciência de dados da IBM** - Coursera
+
+- **Certificação Python 3** - Luiz Otávio Miranda - Udemy
+
+- - **Certificação Python Impressionador** – Hashtag Treinamentos
+- **Certificação SQL Impressionador** – Hashtag Treinamentos
+- **Certificação JavaScript Impressionador** – Hashtag Treinamentos
+- **Certificação Full-Stack Impressionador** – Hashtag Treinamentos
+
+
+---
+
 ## 🚀 Principais Projetos
 
 | Projeto                                    | Descrição                                                                                 | Tech Stack                                |
@@ -40,22 +66,9 @@ processos por meio de software de alta qualidade.
 | **Pipeline ETL para Data Warehouse**       | Construiu pipeline para integrar múltiplas fontes de dados contábeis e fiscais             | Apache Airflow, Python, AWS S3, Redshift  |
 | **Plataforma E-learning de Contabilidade** | Sistema full-stack para cursos online de contabilidade com avaliações e relatórios        | Django, Vue.js, SQLite                    |
 
----
-
-## 🎓 Formação & Certificações
-
-- **Bacharelado em Ciências Contábeis** – Universidade Norte do Paraná  
-- **Pós Graduação - MBA Contabilidade e Direito Tributário** – Instituto de Pós Graduação - IPOG
-- **Pós Graduação - MBA Mercado Financeiro e de Capitals** – Instituto de Pós Graduação - IPOG
-- **Pós Graduação - MBA Gestão de Negócios, Controladoria e Finanças** – Instituto de Pós Graduação - IPOG
-- **Certificação Python Imoressionador** – Hashtag Treinamentos
-- **Certificação Python 3** - Luiz Otávio Miranda - Udemy
-- **Certificação SQL Impressionador** – Hashtag Treinamentos
-- **Certificação JavaScript Impressionador** – Hashtag Treinamentos
-- **Certificação Full-Stack Impressionador** – Hashtag Treinamentos
-- **Certificação Python Developer** – Python Institute  
 
 ---
+
 
 ## 📫 Contato
 
