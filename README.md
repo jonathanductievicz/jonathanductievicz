@@ -44,8 +44,8 @@ processos por meio de software de alta qualidade.
 - **Especialista em Simples Nacional** - Contador Premium
 - **Especialista em SPED 3.0** - Contador Premium
   
-- **Certificado Profissional de Engenharia de dados da IBM** - Coursera
-- **Certificado Profissional de Ciência de dados da IBM** - Coursera
+- **Certificado Profissional de Engenharia de dados da IBM** - IBM/Coursera
+- **Certificado Profissional de Ciência de dados da IBM** - IBM/Coursera
 
 - **Certificação Python 3** - Luiz Otávio Miranda - Udemy
 
