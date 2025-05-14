@@ -1,10 +1,7 @@
 # Olá, eu sou Jonathan Ductievicz
 
 ## 📖 Sobre mim
-Sou profissional com formação em Contabilidade e vasta experiência em gestão fiscal e tributária, controladoria e finanças.
-Ao longo da minha carreira, tenho combinado conhecimentos contábeis tradicionais com técnicas avançadas de análise e engenharia de dados,
-além de desenvolver aplicações full-stack em Python e JavaScript. Meu objetivo é entregar insights financeiros robustos e automatizar
-processos por meio de software de alta qualidade.
+Contador Profissional com mais de 10 anos de experiência contábil, fiscal, societário, controladoria e finanças orientadas a dados. Domínio das normas brasileiras de contabilidade (NBC e CPC) e internacionais (IFRS e IASB), conhecimento aprofundado de tributos e planejamento tributário, obrigações acessórias SPED, enquadramentos Simples Nacional, Lucro Presumido e Lucro Real. Habilidade em RPA, Python, Power BI, SQL e integração contabilidade com Inteligência Artificial.
 
 ---
 
@@ -61,10 +58,7 @@ processos por meio de software de alta qualidade.
 
 | Projeto                                    | Descrição                                                                                 | Tech Stack                                |
 |--------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------|
-| **Analisador Tributário**                  | Ferramenta para automação de cálculo de tributos e geração de relatórios gerenciais       | Python, Pandas, PostgreSQL, Docker        |
-| **Dashboard Financeiro Interativo**        | Aplicação web para visualização de KPIs financeiros em tempo real                         | React, D3.js, FastAPI, MySQL              |
-| **Pipeline ETL para Data Warehouse**       | Construiu pipeline para integrar múltiplas fontes de dados contábeis e fiscais             | Apache Airflow, Python, AWS S3, Redshift  |
-| **Plataforma E-learning de Contabilidade** | Sistema full-stack para cursos online de contabilidade com avaliações e relatórios        | Django, Vue.js, SQLite                    |
+|                 |        |       |
 
 
 ---
