@@ -51,7 +51,7 @@ Contador Profissional com mais de 10 anos de experiência contábil, fiscal, soc
 - [Curso de Python 3 - Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 - [Python Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/curso-python)
 - [SQL Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/curso-sql)
-- [Inteligência Artificial Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/pg-inscricao-inteligencia-artificial-impressionador]
+- [Inteligência Artificial Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/pg-inscricao-inteligencia-artificial-impressionador)
 
 ---
 
