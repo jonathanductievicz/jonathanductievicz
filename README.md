@@ -35,7 +35,23 @@ Contador Profissional com mais de 10 anos de experiência contábil, fiscal, soc
 - [MBA Gestão de Negócios, Controladoria e Finanças - IPOG](https://ipog.edu.br/cursos/pos-graduacao/mba-em-gestao-de-negocios-financas-e-controladoria)
 - [MBA Mercado Financeiro e de Capitals - IPOG](https://ipog.edu.br/cursos/pos-graduacao/mercados-financeiros-e-de-capitais-mba-ead)
 
+**Formações Contábeis:**
+- [Analista Fiscal - Contador Premium](https://institutoect.com.br/contador-premium-oficial/#cursos)
+- [Analista Contábil - Contador Premium](https://institutoect.com.br/contador-premium-oficial/#cursos)
+- [Especialista em PIS e COFINS - Contador Premium](https://institutoect.com.br/contador-premium-oficial/#cursos)
+- [Especialista em Simples Nacional - Contador Premium](https://institutoect.com.br/contador-premium-oficial/#cursos)
+- [Especialista em SPED 3.0 - Contador Premium](https://institutoect.com.br/contador-premium-oficial/#cursos)
+- [Societário na Prática - Viver de Contabilidade](https://viverdecontabilidade.com/pratica/)
+- [Fiscal na Prática - Viver de Contabilidade](https://viverdecontabilidade.com/pratica/)
+- [Contábil na Prática - Viver de Contabilidade](https://viverdecontabilidade.com/pratica/)
 
+**Formações Profissionais:**
+- [Certificado Profissional de Engenharia de dados da IBM - Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+- [Certificado Profissional de Ciência de dados da IBM - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Curso de Python 3 - Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+- [Python Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/curso-python)
+- [SQL Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/curso-sql)
+- [Inteligência Artificial Impressionador - Hashtag Treinamentos](https://www.hashtagtreinamentos.com/pg-inscricao-inteligencia-artificial-impressionador]
 
 ---
 
