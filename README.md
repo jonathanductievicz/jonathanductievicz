@@ -29,27 +29,12 @@ Contador Profissional com mais de 10 anos de experiência contábil, fiscal, soc
 ---
 
 ## 🎓 Formação & Certificações
+**Graduação:** Ciências Contábeis - Universidade do Norte do Paraná
+**Pós Graduação:**
+- [MBA Contabilidade e Direito Tributário - IPOG](https://ipog.edu.br/cursos/pos-graduacao/contabilidade-tributaria-e-inteligencia-fiscal-mba-presencial)
+- [MBA Gestão de Negócios, Controladoria e Finanças - IPOG](https://ipog.edu.br/cursos/pos-graduacao/mba-em-gestao-de-negocios-financas-e-controladoria)
+- [MBA Mercado Financeiro e de Capitals - IPOG](https://ipog.edu.br/cursos/pos-graduacao/mercados-financeiros-e-de-capitais-mba-ead)
 
-- **Bacharelado em Ciências Contábeis** – Universidade Norte do Paraná  
-- **Pós Graduação - MBA Contabilidade e Direito Tributário** – Instituto de Pós Graduação - IPOG
-- **Pós Graduação - MBA Mercado Financeiro e de Capitals** – Instituto de Pós Graduação - IPOG
-- **Pós Graduação - MBA Gestão de Negócios, Controladoria e Finanças** – Instituto de Pós Graduação - IPOG
-- **Formação em Analista Fiscal** - Contador Premium
-- **Formação em Analista Contábil** - Contador Premium
-- **Formação em Classificação Fiscal de Mercadoria** - Contador Premium
-- **Especialista em PIS e COFINS** - Contador Premium
-- **Especialista em Simples Nacional** - Contador Premium
-- **Especialista em SPED 3.0** - Contador Premium
-  
-- **Certificado Profissional de Engenharia de dados da IBM** - IBM/Coursera
-- **Certificado Profissional de Ciência de dados da IBM** - IBM/Coursera
-
-- **Certificação Python 3** - Luiz Otávio Miranda - Udemy
-
-- **Certificação Python Impressionador** – Hashtag Treinamentos
-- **Certificação SQL Impressionador** – Hashtag Treinamentos
-- **Certificação JavaScript Impressionador** – Hashtag Treinamentos
-- **Certificação Full-Stack Impressionador** – Hashtag Treinamentos
 
 
 ---
