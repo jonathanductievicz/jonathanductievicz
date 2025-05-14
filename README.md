@@ -30,7 +30,8 @@ Contador Profissional com mais de 10 anos de experiência contábil, fiscal, soc
 
 ## 🎓 Formação & Certificações
 **Graduação:** 
-- Ciências Contábeis - Universidade do Norte do Paraná<br>
+- Ciências Contábeis - Universidade do Norte do Paraná
+
 **Pós Graduação:**
 - [MBA Contabilidade e Direito Tributário - IPOG](https://ipog.edu.br/cursos/pos-graduacao/contabilidade-tributaria-e-inteligencia-fiscal-mba-presencial)
 - [MBA Gestão de Negócios, Controladoria e Finanças - IPOG](https://ipog.edu.br/cursos/pos-graduacao/mba-em-gestao-de-negocios-financas-e-controladoria)
