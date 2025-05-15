@@ -1,7 +1,8 @@
 # Olá, eu sou Jonathan Ductievicz
 
 ## 📖 Sobre mim
-Contador Profissional com mais de 10 anos de experiência contábil, fiscal, societário, controladoria e finanças orientadas a dados. Domínio das normas brasileiras de contabilidade (NBC e CPC) e internacionais (IFRS e IASB), conhecimento aprofundado de tributos e planejamento tributário, obrigações acessórias SPED, enquadramentos Simples Nacional, Lucro Presumido e Lucro Real. Habilidade em RPA, Python, Power BI, SQL e integração contabilidade com Inteligência Artificial.
+Contador com mais de 10 anos de atuação, especialista em contabilidade, fiscal, societário, controladoria e finanças orientadas por dados. Sólida experiência em planejamento tributário para Simples Nacional, Lucro Presumido e Lucro Real, com profundo conhecimento das normas brasileiras (NBCs/CPCs) e internacionais (IFRS/IASB). Forte atuação em obrigações acessórias SPED (ECD, EFD, DCTF, ECF), automação de processos via RPA e Python e desenvolvimento de dashboards interativos em Power BI para monitoramento de indicadores-chave. Habilidade na modelagem e integração de bases de dados com SQL, e na aplicação de técnicas de Inteligência Artificial para análise preditiva e otimização de controles financeiros.
+
 
 ---
 ## Experiência Profissional
